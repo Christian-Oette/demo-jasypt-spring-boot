@@ -1,0 +1,8 @@
+password: ENC(vSMzE7uAQxrhuUL7kSyk6FbE4HyY4fE6) # abc
+token: ENC(vSMzE7uAQxrhuUL7kSyk6FbE4HyY4fE6) # 123
+other-property: 123
+
+jasypt:
+  encryptor:
+    algorithm: PBEWithMD5AndDES
+    password: mySuperSecretMasterPassword

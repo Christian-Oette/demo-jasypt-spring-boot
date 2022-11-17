@@ -1,0 +1,3 @@
+password: ENC(abc-encrypted)
+token: ENC(123-encrypted)
+other-property: 123
